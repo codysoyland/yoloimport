@@ -1,5 +1,4 @@
 import os
-import types
 
 maybe_import = __import__
 
