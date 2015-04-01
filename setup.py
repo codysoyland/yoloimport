@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name = "yoloimport",
-    version = "0.0.1",
+    version = "0.1.0",
     author = "Cody Soyland",
     author_email = "codysoyland@gmail.com",
     description = "Never see another ImportError",
