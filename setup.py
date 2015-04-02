@@ -14,6 +14,9 @@ setup(
     url = "https://github.com/codysoyland/yoloimport",
     py_modules=['yoloimport'],
     long_description=read('README.md'),
+    install_requires=[
+        "mock"
+    ],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "License :: OSI Approved :: BSD License",
